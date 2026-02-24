@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 public class BatteryData
 {
     public long TelemetryId { get; set; }
