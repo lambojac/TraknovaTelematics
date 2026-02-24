@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\bin\Debug\net8.0\TraknovaTelematics.Core.deps.json
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\bin\Debug\net8.0\TraknovaTelematics.Core.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\bin\Debug\net8.0\TraknovaTelematics.Core.pdb
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\refint\TraknovaTelematics.Core.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\TraknovaTelematics.Core.pdb
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Core\obj\Debug\net8.0\ref\TraknovaTelematics.Core.dll

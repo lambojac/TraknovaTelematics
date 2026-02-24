@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Infrastructure.deps.json
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Infrastructure.runtimeconfig.json
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Infrastructure.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Infrastructure.pdb
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Core.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\bin\Debug\net8.0\TraknovaTelematics.Core.pdb
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\Traknova.CFAB54C3.Up2Date
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\refint\TraknovaTelematics.Infrastructure.dll
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.pdb
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\TraknovaTelematics.Infrastructure.genruntimeconfig.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\src\TraknovaTelematics.Infrastructure\obj\Debug\net8.0\ref\TraknovaTelematics.Infrastructure.dll

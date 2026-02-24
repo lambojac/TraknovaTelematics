@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\TraknovaTelematics\tests\TraknovaTelematics.Tests\obj\Debug\net8.0\TraknovaTelematics.Tests.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\tests\TraknovaTelematics.Tests\obj\Debug\net8.0\TraknovaTelematics.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TraknovaTelematics\tests\TraknovaTelematics.Tests\obj\Debug\net8.0\TraknovaTelematics.Tests.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TraknovaTelematics\tests\TraknovaTelematics.Tests\obj\Debug\net8.0\TraknovaTelematics.Tests.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TraknovaTelematics\tests\TraknovaTelematics.Tests\obj\Debug\net8.0\TraknovaTelematics.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "emVXzCHDWH40Bs5BVrb9y3dIDbGJrurofqtj5O12knA=",
+  "Source": "TraknovaTelematics.API",
+  "BasePath": "_content/TraknovaTelematics.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
