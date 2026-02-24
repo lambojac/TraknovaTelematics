@@ -107,3 +107,26 @@ Expected response (all 5 records from the sample pass validation):
   "rejected": 0,
   "errors": []
 }
+
+---
+
+## If I Had More Time
+
+**Production hardening I'd add:**
+
+1. **Idempotency** — add a unique index on `(VehicleId, TimeStamp)` with `ON CONFLICT DO NOTHING` semantics (or SQL Server's `MERGE`), so replayed payloads don't create duplicates.
+
+2. **Message queue ingestion** — in production, devices would publish to a queue (Azure Service Bus / Kafka). The ingestion service would be a background consumer, decoupling device uptime from API availability and enabling backpressure.
+
+3. **Separate `Trips` table** — normalise `TripId` into its own table with start/end time, vehicle, and aggregate stats (distance, average EcoScore). The FK would enforce referential integrity.
+
+4. **Alerts table** — rather than bool columns on every record, active alerts should be their own rows with `RaisedAt` / `ResolvedAt` timestamps to support alert history and duration queries.
+
+5. **Time-series DB consideration** — at scale (millions of records/day) a time-series store (TimescaleDB, InfluxDB, or Azure Data Explorer) would outperform SQL Server for range queries over `TimeStamp`. The repository interface abstracts this — swapping the storage backend wouldn't touch the Core layer.
+
+6. **Auth** — Bearer token / API key validation on the ingest endpoint. Devices would authenticate per-fleet.
+
+7. **OpenTelemetry** — structured logging + metrics (ingestion throughput, rejection rate, latency p99) exported to a collector.
+
+8. **Pagination** on `GET /telematics/{vehicleId}` — the current implementation loads all records into memory.
+
