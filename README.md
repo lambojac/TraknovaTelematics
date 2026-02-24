@@ -107,6 +107,7 @@ Expected response (all 5 records from the sample pass validation):
   "rejected": 0,
   "errors": []
 }
+```
 
 ---
 
@@ -129,4 +130,3 @@ Expected response (all 5 records from the sample pass validation):
 7. **OpenTelemetry** — structured logging + metrics (ingestion throughput, rejection rate, latency p99) exported to a collector.
 
 8. **Pagination** on `GET /telematics/{vehicleId}` — the current implementation loads all records into memory.
-
